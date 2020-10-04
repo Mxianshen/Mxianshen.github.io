@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://lmgentry.github.io</id>
+    <id>https://mxianshen.github.io</id>
     <title>Mgentry</title>
-    <updated>2020-10-02T17:44:00.157Z</updated>
+    <updated>2020-10-04T14:34:07.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://lmgentry.github.io"/>
-    <link rel="self" href="https://lmgentry.github.io/atom.xml"/>
+    <link rel="alternate" href="https://mxianshen.github.io"/>
+    <link rel="self" href="https://mxianshen.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://lmgentry.github.io/images/avatar.png</logo>
-    <icon>https://lmgentry.github.io/favicon.ico</icon>
+    <logo>https://mxianshen.github.io/images/avatar.png</logo>
+    <icon>https://mxianshen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Mgentry</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://lmgentry.github.io/post/hello-gridea/</id>
-        <link href="https://lmgentry.github.io/post/hello-gridea/">
+        <id>https://mxianshen.github.io/post/hello-gridea/</id>
+        <link href="https://mxianshen.github.io/post/hello-gridea/">
         </link>
         <updated>2020-10-02T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
